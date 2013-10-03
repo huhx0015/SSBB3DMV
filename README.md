@@ -1,10 +1,5 @@
-SSBB3DMV
-========
-
-Super Smash Bros. Brawl 3D Model Viewer
-=========================================
-Microsoft XNA Game Studio 4.0 Application
-=========================================
+SSBB3DMV - Super Smash Bros. Brawl 3D Model Viewer
+==================================================
 
 Developers: huhx0015 & schou0009
 
