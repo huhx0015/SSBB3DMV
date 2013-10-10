@@ -10,6 +10,10 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 
+/* SUPER SMASH BROS. BRAWL 3D MODEL VIEWER
+ * Programmers: Michael Yoon Huh (huhx0015), Steve Chou (azntofu2000/chou0069)
+ * Last Updated: 12/15/2011 */
+
 // AI algorithms and programming written by chou0069.
 namespace _3DPoringModel
 {

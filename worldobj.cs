@@ -5,6 +5,10 @@ using System.Text;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
+/* SUPER SMASH BROS. BRAWL 3D MODEL VIEWER
+ * Programmers: Michael Yoon Huh (huhx0015), Steve Chou (azntofu2000/chou0069)
+ * Last Updated: 12/15/2011 */
+
 namespace _3DPoringModel
 {
     public class worldobj
