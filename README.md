@@ -1,7 +1,9 @@
-SSBB3DMV - Super Smash Bros. Brawl 3D Model Viewer
+SSBB3DMV: Super Smash Bros. Brawl 3D Model Viewer
 ==================================================
 
-Developers: huhx0015 & schou0009
+Developers: huhx0015, schou0009
+
+## Description
 
 This is a 3D model viewer which loaded and rendered (in real-time) 3D model stages and characters from the Super Smash
 Bros. Brawl game. It was developed as a fan project and as a way to learn more about the XNA framework. The viewer
