@@ -1,5 +1,5 @@
-SSBB3DMV: Super Smash Bros. Brawl 3D Model Viewer
-==================================================
+Super Smash Bros. Brawl 3D Model Viewer
+=======================================
 
 Developers: huhx0015, schou0009
 
@@ -12,6 +12,12 @@ was also programmed, in which users could change the background stage, enable mu
 enable a simple jumping motion for character models. 
 
 The viewer was developed in a two person team on Visual Studio 2008/2012 and XNA Game Studio 4.0, using C# and the
-Microsoft XNA Framework. The source code for this project is readily available here on GitHub. Content material has
-been omitted, as all Super Smash Bros. Brawl models, textures, music, and sound files are copyrighted works of Nintendo
-Co., Ltd.
+Microsoft XNA Framework.
+
+## Copyright
+
+Super Smash Bros. Brawl 3D Model Viewer is a fan application and is not associated with or endorsed by Nintendo Co., Ltd.
+
+© SUPER SMASH BROS. BRAWL is a registered trademark of Nintendo Co., Ltd.
+
+All SUPER SMASH BROS. BRAWL images, logos, names, music, and related media are intellectual properties of Nintendo Co., Ltd. unless otherwise noted.
