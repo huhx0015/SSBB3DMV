@@ -1,7 +1,7 @@
 Super Smash Bros. Brawl 3D Model Viewer
 =======================================
 
-Developers: huhx0015, schou0009
+Developers: https://github.com/huhx0015, https://github.com/s-tc-chou
 
 ## Description
 
