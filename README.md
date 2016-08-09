@@ -8,7 +8,7 @@ DEVELOPERS: huhx0015, s-tc-chou
 
 ## Description
 
-This is a 3D model viewer which loaded and rendered (in real-time) 3D model stages and characters from the Super Smash
+This is a 3D model viewer which loads and renders (in real-time) 3D model stages and characters from the Super Smash
 Bros. Brawl game. It was developed as a fan project and as a way to learn more about the XNA framework. The viewer
 allowed for free-style camera controls, with the ability to fly in and around stage and character models. A simple UI
 was also programmed, in which users could change the background stage, enable music/sound effects, and a toggle to 
