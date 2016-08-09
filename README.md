@@ -1,7 +1,10 @@
 Super Smash Bros. Brawl 3D Model Viewer
 =======================================
 
-Developers: https://github.com/huhx0015, https://github.com/s-tc-chou
+DEVELOPERS: huhx0015, s-tc-chou
+
+### SSBB3DMV
+![ssbb3dmv_preview](https://cloud.githubusercontent.com/assets/1645482/17509823/d367343e-5dd0-11e6-8657-25489fb18357.gif)
 
 ## Description
 
@@ -13,6 +16,10 @@ enable a simple jumping motion for character models.
 
 The viewer was developed in a two person team on Visual Studio 2008/2012 and XNA Game Studio 4.0, using C# and the
 Microsoft XNA Framework.
+
+## Requirements
+* Operating System: Windows XP, Windows 7, Windows 8, Windows 10
+* Framework: Microsoft XNA Framework Redistributable 4.0
 
 ## Copyright
 
